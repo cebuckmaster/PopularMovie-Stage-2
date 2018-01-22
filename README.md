@@ -2,7 +2,7 @@
 
 This application uses an API to themoviedb.org.
 
-I your local .gradle directory edit/add a file called gradle.properties.  
+In your local .gradle directory edit/add a file called gradle.properties.  
 
 Include the following - 
 
