@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#D32F2f</color>
+    <color name="colorAccent">#4CAF50</color>
+    <color name="colorPrimaryLight">#FFCDD2</color>
+
+    <color name="favMovieColor">#4CAF50</color>
+    <color name="notfavMovieColor">#ffeb3b</color>
+
+    <color name="movieTitleText">#FFFFFF</color>
+
+
+</resources>
